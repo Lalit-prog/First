@@ -1,0 +1,3 @@
+A named location used to store related information is referred to as a File.
+Roll_No~Name~Subject~Mark
+001~lalit~Math~80
